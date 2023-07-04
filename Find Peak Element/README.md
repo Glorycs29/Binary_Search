@@ -1,5 +1,5 @@
 
-# [Find Peak Element](https://leetcode.com/problems/find-peak-element/) 
+# [🤔Find Peak Element](https://leetcode.com/problems/find-peak-element/) 
 
 A peak element is an element that is strictly greater than its neighbors.
 
@@ -9,18 +9,18 @@ You may imagine that nums[-1] = nums[n] = -∞. In other words, an element is al
 
 You must write an algorithm that runs in O(log n) time.
 #
-### Example 1:
+### 😉Example 1:
 
 - Input: nums = [1,2,3,1]
 - Output: 2
 - Explanation: 3 is a peak element and your function should return the index number 2.
  #
-### Example 2:
+### 😉Example 2:
 
 - Input: nums = [1,2,1,3,5,6,4]
 - Output: 5
 - Explanation: Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.
 
 #
-- [Problem Statement](https://github.com/Glorycs29/Binary_Search/blob/main/Find%20Peak%20Element/Problem%20Statement.md)
-- [Solution]()
+- [🤯Problem Statement](https://github.com/Glorycs29/Binary_Search/blob/main/Find%20Peak%20Element/Problem%20Statement.md)
+- [🥳Solution](https://github.com/Glorycs29/Binary_Search/tree/main/Find%20Peak%20Element)
