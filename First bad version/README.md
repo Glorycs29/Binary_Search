@@ -1,5 +1,5 @@
 ### First Bad Version
-Based upon:[#2 Template BS]()
+Based upon:[#2 Template BS](https://github.com/Glorycs29/Binary_Search/tree/main/Binary%20Search%20templates%20/%232%20Template%20II)
 # Statement: 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 
