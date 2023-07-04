@@ -36,4 +36,4 @@ You must write an algorithm that runs in O(log n) time.
 - All the integers of nums are unique.
 - nums is sorted and rotated between 1 and n times.
 
-# [🥳Solution]()
+# [🥳Solution](https://github.com/Glorycs29/Binary_Search/tree/main/Find%20minimum%20in%20rotated%20sorted%20array)
