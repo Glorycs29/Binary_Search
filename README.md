@@ -4,11 +4,9 @@
 <ol>
   
 # Basic Template:
- 
-  <ul>
-    <li> [Non-recursive]() </li>
-    <li> [Recursive]() </li>
-  </ul>
+  - [Non-recursive](https://github.com/Glorycs29/Binary_Search/blob/main/Binary%20Search%20templates%20/%231%20Elementary%20template/Code.cpp)
+  - [Recursive]()
+
   
 # Advance Template:
   
