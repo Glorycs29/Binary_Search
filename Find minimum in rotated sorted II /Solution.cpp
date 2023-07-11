@@ -1,5 +1,6 @@
 class Solution {
 public:
+// the important part is it contains duplicates
     int findMin(vector<int>& nums) {
         int n = nums.size();
         int low = 0, high = nums.size()-1;
