@@ -30,4 +30,4 @@ Return the smallest character in letters that is lexicographically greater than 
 - letters contains at least two different characters.
 - target is a lowercase English letter.
 
-[Solution]()
+[Solution](https://github.com/Glorycs29/Binary_Search/blob/main/Find%20the%20smallest%20letter%20greater%20than%20the%20target/Solution.cpp)
