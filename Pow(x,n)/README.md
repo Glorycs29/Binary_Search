@@ -26,3 +26,7 @@ Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 - n is an integer.
 - Either x is not zero or n > 0.
 - -104 <= xn <= 104
+
+
+
+### [Solution](https://github.com/Glorycs29/Binary_Search/blob/main/Pow(x%2Cn)/Solution.cpp)
