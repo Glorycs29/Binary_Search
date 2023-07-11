@@ -29,7 +29,7 @@ You must decrease the overall operation steps as much as possible.
 - -5000 <= nums[i] <= 5000
 - nums is sorted and rotated between 1 and n times
 
-[Solution]()
+[Solution](https://github.com/Glorycs29/Binary_Search/blob/main/Find%20minimum%20in%20rotated%20sorted%20II%20/Solution.cpp)
 
 # Explanation: 
 Here in my solution i used binary search to solve this question considering these four cases :
