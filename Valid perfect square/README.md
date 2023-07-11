@@ -25,4 +25,4 @@ You must not use any built-in library function, such as sqrt.
 
 1 <= num <= 231 - 1
 
-[Solution](https://github.com/Glorycs29/Binary_Search/new/main/Valid%20perfect%20square)
+[Solution](https://github.com/Glorycs29/Binary_Search/blob/main/Valid%20perfect%20square/Solution.cpp)
