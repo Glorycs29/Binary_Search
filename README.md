@@ -168,6 +168,8 @@ int BinarySearch(){
 	//return l-1;//find the last F
 }
 ```
+- [generic-leetcode](https://leetcode.com/discuss/study-guide/3444552/binary-search-on-answer-template-generic-template)
+
 [![RainDance](https://github.com/Glorycs29/My_Learnings/blob/main/rain_dance.gif)]()
 
 Things will be updated soon........
