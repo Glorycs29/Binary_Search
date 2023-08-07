@@ -1,4 +1,4 @@
-[You can also check](https://github.com/Glorycs29/Binary_Search)
+[You can also check](https://leetcode.com/problems/search-a-2d-matrix/solutions/3876876/most-optimal-explanation-clean-code-binary-search-c/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
